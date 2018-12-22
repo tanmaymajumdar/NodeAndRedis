@@ -1,0 +1,19 @@
+{
+  "name": "nodeandredis",
+  "version": "1.0.0",
+  "description": "Just a simple 'get started' application which includes node with redis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmaymajumdar/NodeAndRedis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmaymajumdar/NodeAndRedis/issues"
+  },
+  "homepage": "https://github.com/tanmaymajumdar/NodeAndRedis#readme"
+}
